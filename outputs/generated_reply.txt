@@ -1,0 +1,52 @@
+
+======================================================================
+
+Date and Time: 2026-10-13 22:06:12
+
+Customer Name: Joh
+
+Subject: Delivery Delay
+
+Detected Intent: Delivery Issue
+
+Customer Email:
+My package has not arrived yet.
+
+Generated Reply:
+Dear Customer,
+
+Thank you for contacting us regarding the delay in your package delivery. We apologize for any inconvenience this has caused and appreciate your patience during this time.
+
+Our team will conduct a thorough investigation into the matter and provide an update on the status of your shipment as soon as possible. You can expect to receive a follow-up email with further information on the expected delivery date or any additional actions required from our end.
+
+Sincerely,
+Customer Support Team
+
+
+======================================================================
+
+Date and Time: 2026-10-13 22:08:15
+
+Customer Name: Jesvaan Raj
+
+Subject: Delivery Delayed
+
+Detected Intent: Product Complaint
+
+Customer Email:
+My Package has Not yet arrived
+
+Generated Reply:
+Subject: Re: Delivery Delayed
+
+Dear Jesvaan Raj,
+
+I want to start by apologizing for the inconvenience caused by the delayed delivery of your package. I understand how frustrating this must be for you, and I appreciate you bringing it to our attention.
+
+Our team is actively working on resolving the issue as soon as possible, and we're committed to keeping you informed about any progress. You can expect an update within the next 24-48 hours regarding the status of your package.
+
+If there's anything else we can do to make things right or if you have any further questions, please don't hesitate to reach out to us. We value your patience and understanding during this time.
+
+Best regards,
+Customer Support Team
+

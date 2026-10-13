@@ -1,0 +1,11 @@
+Email_ID,Customer_Name,Email_Date,Category,Priority,Subject,Customer_Email,Intent,Sentiment,Previous_Reply,Status,Agent_Name
+E001,Harper,2026-01-02,Delivery Issue,Low,Delivery Delay,Tracking has not updated for days,Delivery Issue,Negative,We apologize for the delay. Our team will check the shipment,Resolved,Daniel
+E002,Priya,2026-01-03,Delivery Issue,High,Delivery Delay,My shipment is delayed,Delivery Issue,Negative,We apologize for the delay. Our team will check the shipment,Resolved,Brian
+E003,Anita,2026-01-04,Delivery Issue,High,Delivery Delay,My package has not arrived yet,Delivery Issue,Negative,We apologize for the delay. Our team will check the shipment,Resolved,Eva
+E004,David,2026-01-12,Refund Request,High,Refund Status,Refund status please,Refund Request,Negative,Your refund request is being reviewed,Resolved,Daniel
+E005,Sophia,2026-01-13,Refund Request,Medium,Refund Status,When will my refund be credited,Refund Request,Negative,Your refund request is being reviewed,Resolved,Alice
+E006,Henry,2026-02-01,Product Complaint,Medium,Product Damage,The screen is cracked,Product Complaint,Negative,We regret the inconvenience. Please share your order details,Resolved,Eva
+E007,Kiran,2026-01-23,Technical Support,Medium,Login Problem,The application crashes after login,Technical Support,Negative,We are sorry for the inconvenience. Please share more details,Resolved,Daniel
+E008,Ethan,2026-02-21,Order Cancellation,Low,Cancel Order,Cancel my recent purchase,Order Cancellation,Neutral,Your cancellation request has been received,Resolved,Catherine
+E009,Sophia,2026-04-02,General Inquiry,Low,Services,Tell me about your services,General Inquiry,Neutral,Thank you for contacting us. We would be happy to help,Resolved,Catherine
+E010,Sophia,2026-02-11,Payment Issue,High,Payment Failure,Payment gateway is not working,Payment Issue,Negative,We have initiated an investigation. Please share transaction details,Resolved,Eva
